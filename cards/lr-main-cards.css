@@ -1,0 +1,114 @@
+.card {
+    margin: 1mm;
+    padding: 1mm;
+    border-style: solid;
+    border-width: 0.8mm;
+    border-color: black;
+    border-radius: 3mm;
+    width: 65mm;
+    height: 80mm;
+}
+
+.type {
+    font-family: "Arial";
+    font-weight: bold;
+    font-size: 16pt;
+    text-align: left;
+    width: min-content;
+    float: left;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: .25mm;
+}
+
+.color {
+    font-family: "Arial";
+    font-weight: bold;
+    font-size: 16pt;
+    text-align: right;
+    width: min-content;
+    float: right;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: .25mm;
+}
+
+.top {
+    margin: 2mm 0mm;
+    padding: 0mm 2mm;
+    height: 10mm;
+    width: 60mm;
+}
+
+.center {
+    text-align: center;
+}
+
+.image {
+    alignment: center;
+    margin: 1mm 5mm;
+    height: 35mm;
+    width: 45mm;
+    padding: 4mm;
+    border-radius: 4mm;
+}
+
+.image_red {
+    background-color: #DC143C;
+}
+
+.image_orange {
+    background-color: #FF7F50;
+}
+
+.image_yellow {
+    background-color: #FFD700;
+}
+
+.image_green {
+    background-color: #228B22;
+}
+
+.image_blue {
+    background-color: #4169E1;
+}
+
+.image_violet {
+    background-color: #EE82EE;
+}
+
+
+.font_red {
+    color: #DC143C;
+}
+
+.font_orange {
+    color: #FF7F50;
+}
+
+.font_yellow {
+    color: #FFD700;
+}
+
+.font_green {
+    color: #228B22;
+}
+
+.font_blue {
+    color: #4169E1;
+}
+
+.font_violet {
+    color: #EE82EE;
+}
+
+.rainbow {
+    margin: 2mm 1mm;
+    background-color: #EEEEEE;
+    height: 15mm;
+    width: 60mm;
+    align-content: center;
+    border-radius: 10mm;
+    border-color: black;
+    border-width: 1mm;
+    border-style: solid;
+    object-fit: fill;
+}
