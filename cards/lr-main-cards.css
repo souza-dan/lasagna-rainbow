@@ -10,9 +10,9 @@
 }
 
 .type {
-    font-family: "Arial";
+    font-family: "Gill Sans";
     font-weight: bold;
-    font-size: 16pt;
+    font-size: 22pt;
     text-align: left;
     width: min-content;
     float: left;
@@ -21,9 +21,9 @@
 }
 
 .color {
-    font-family: "Arial";
+    font-family: "Gill Sans";
     font-weight: bold;
-    font-size: 16pt;
+    font-size: 22pt;
     text-align: right;
     width: min-content;
     float: right;
@@ -52,7 +52,7 @@
 }
 
 .image_red {
-    background-color: #DC143C;
+    background-color: #fa0837;
 }
 
 .image_orange {
@@ -64,7 +64,7 @@
 }
 
 .image_green {
-    background-color: #228B22;
+    background-color: #41ea41;
 }
 
 .image_blue {
@@ -77,7 +77,7 @@
 
 
 .font_red {
-    color: #DC143C;
+    color: #fa0837;
 }
 
 .font_orange {
@@ -89,7 +89,7 @@
 }
 
 .font_green {
-    color: #228B22;
+    color: #41ea41;
 }
 
 .font_blue {
