@@ -6,29 +6,32 @@
     border-color: black;
     border-radius: 3mm;
     width: 65mm;
-    height: 80mm;
+    height: 85mm;
 }
 
-.type {
+.text {
     font-family: "Gill Sans";
     font-weight: bold;
-    font-size: 22pt;
+    font-size: 20pt;
     text-align: left;
     width: min-content;
     float: right;
     -webkit-text-stroke-color: black;
     -webkit-text-stroke-width: .25mm;
+    border-radius: 4mm;
+    border-color: black;
+    border-width: .75mm;
+    border-style: solid;
+    padding: 1mm;
+    background-color: #e5e5e5;
+}
+
+.type {
+    float: right;
 }
 
 .color {
-    font-family: "Gill Sans";
-    font-weight: bold;
-    font-size: 22pt;
-    text-align: right;
-    width: min-content;
     float: left;
-    -webkit-text-stroke-color: black;
-    -webkit-text-stroke-width: .25mm;
 }
 
 .top {
@@ -49,6 +52,9 @@
     width: 45mm;
     padding: 4mm;
     border-radius: 4mm;
+    border-color: black;
+    border-width: 1mm;
+    border-style: solid;
 }
 
 .image_red {
